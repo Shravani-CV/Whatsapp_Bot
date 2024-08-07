@@ -1,7 +1,7 @@
 import qrcode
 
 # WhatsApp chat link
-whatsapp_link = "https://wa.me/<8660778701>?text=Hello"
+whatsapp_link = "https://wa.me/<YOUR WHATSAPP NUMBER>?text=Hello"
 
 # Generate QR code
 qr = qrcode.QRCode(
